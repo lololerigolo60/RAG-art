@@ -1,7 +1,7 @@
-ART_RAG APPLICATION OVERVIEW & FEATURES
+RAG-ART APPLICATION OVERVIEW & FEATURES
 
 
-The Art_RAG application is a fully local, intelligent, and interactive assistant 
+The RAG-art application is a fully local, intelligent, and interactive assistant 
 designed for art history research, image analysis, and cultural document 
 management.
 
