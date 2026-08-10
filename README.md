@@ -31,6 +31,7 @@ Here is everything you can accomplish with this application:
   materials and files.
 - If information is missing from your local documents, the app can automatically 
   enrich its answers with Web and Wikipedia search results.
+- You can ask the assistant to create a prompt to generate an image using generative AI models.
 
 4. ACCESSIBLE VIA DUAL INTERFACES
 --------------------------------------------------------------------------------
