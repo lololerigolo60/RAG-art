@@ -3,7 +3,9 @@ RAG-ART APPLICATION OVERVIEW & FEATURES
 
 The RAG-art application is a fully local, intelligent, and interactive assistant 
 designed for art history research, image analysis, and cultural document 
-management.
+management, using LLMs via OLLAMA (you must download it and install it before). 
+The list of LLMs I use is already set by default in the settings; you can use them
+after loading them with Ollama, or you can specify the ones you want to use.
 
 Here is everything you can accomplish with this application:
 
