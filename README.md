@@ -1,3 +1,9 @@
+INSTALLATION: 
+- YOU MUST HAVE PYTHON INSTALLED 
+- YOU MUST HAVE OLLAMA OR LM STUDIO INSTALLED
+- COPY ALL FILES TO A FOLDER.
+-  DOUBLE-CLICK THE RUN.BAT FILE
+
 RAG-ART
 
 A local, offline-first RAG (Retrieval-Augmented Generation) application built for art history research — painting techniques, pictorial movements, artists, and artwork analysis. Everything runs on your own machine: no cloud API, no data leaving your computer.
