@@ -1,4 +1,4 @@
-art_rag.py
+RAG-ART
 
 A local, offline-first RAG (Retrieval-Augmented Generation) application built for art history research — painting techniques, pictorial movements, artists, and artwork analysis. Everything runs on your own machine: no cloud API, no data leaving your computer.
 
